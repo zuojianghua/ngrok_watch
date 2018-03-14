@@ -1,0 +1,24 @@
+{
+  "name": "ngrok_watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuojianghua/ngrok_watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuojianghua/ngrok_watch/issues"
+  },
+  "homepage": "https://github.com/zuojianghua/ngrok_watch#readme",
+  "dependencies": {
+    "emailjs": "^2.0.0",
+    "forever": "^0.15.3",
+    "request": "^2.85.0"
+  }
+}
